@@ -1,6 +1,6 @@
 # instagram_smaple
 
-A new Flutter project.
+İnstagram Örneği
 
 @keyvanarasteh
 
