@@ -1,5 +1,5 @@
 # 3-Screen-Development
-# Seyit Uçar
+# Seyitcan Uçar
 # Yasin Bilgin  
 ## keyvanarasteh
 221216047
