@@ -1,6 +1,6 @@
 # 3-Screen-Development
-# Seyitcan Uçar 211216019
-# Yasin Bilgin  221216047
+# Seyitcan Uçar 211216019 
+# Yasin Bilgin  221216047 [Macellan02](https://github.com/Macellan02)
 [keyvanarasteh
 ](https://github.com/keyvanarasteh/)
 
