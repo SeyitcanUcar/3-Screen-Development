@@ -1,6 +1,7 @@
 # 3-Screen-Development
-# Seyitcan Uçar
-# Yasin Bilgin  
+# Seyit Can Uçar 211216019
+# Yasin Bilgin  221216047
 ## keyvanarasteh
-221216047
-211216019
+
+
+
