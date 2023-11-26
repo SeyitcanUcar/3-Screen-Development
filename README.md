@@ -1,7 +1,6 @@
 # 3-Screen-Development
 # Seyitcan Uçar 211216019
 # Yasin Bilgin  221216047
-# Mehmet Şükrü İldemir 211216003
 ## keyvanarasteh
 
 
